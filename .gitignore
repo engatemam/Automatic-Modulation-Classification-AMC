@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+conda_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset (large files)
+data/raw/*.pkl
+data/raw/*.pickle
+
+# Model checkpoints (large files)
+models/checkpoints/*.pt
+models/checkpoints/*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution
+dist/
+build/
+*.egg-info/
