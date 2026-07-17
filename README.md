@@ -165,8 +165,9 @@ Automatic-Modulation-Classification-AMC/
 ## 🗺️ Roadmap
 
 ### Week 1 — Foundations & Study
-- [ ] Environment setup & repo structure
+- [x] Environment setup & repo structure
 - [ ] Study modulation types theory
+- [x] Download RadioML2016.10a dataset
 - [ ] Dataset exploration & visualization
 - [ ] Preprocessing pipeline
 
