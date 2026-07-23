@@ -1,6 +1,6 @@
 # 📡 Automatic Modulation Classification (AMC)
 
-> A deep learning–based system that automatically identifies the modulation type of raw radio signals (IQ samples) using Convolutional Neural Networks (CNN) and Recurrent Neural Networks (LSTM).
+> A deep learning–based system that automatically identifies the modulation type of raw radio signals (IQ samples) 
 
 ---
 
